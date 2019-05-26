@@ -1,4 +1,5 @@
 subdirs = [
+    "gps",
     "light",
     "memtrack",
 ]
