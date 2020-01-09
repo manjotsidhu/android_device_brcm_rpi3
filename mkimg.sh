@@ -2,7 +2,7 @@
 
 AOSPVERSION=android-10
 DATE=`date +%Y%m%d`
-IMGNAME=$LINEAGEVERSION-$DATE-rpi3.img
+IMGNAME=$AOSPVERSION-$DATE-rpi3.img
 IMGSIZE=4
 OUTDIR=${ANDROID_PRODUCT_OUT:="../../../out/target/product/rpi3"}
 
